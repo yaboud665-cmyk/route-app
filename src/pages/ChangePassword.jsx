@@ -60,7 +60,6 @@ export default function ChangePassword() {
     <div className="mx-auto max-w-lg space-y-4">
       <section className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
         <h1 className="text-lg font-bold text-slate-900">Change password</h1>
-        
 
         <form onSubmit={handleSubmit} className="mt-5 space-y-4">
           <div className="space-y-1">
